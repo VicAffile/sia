@@ -1,6 +1,6 @@
 # Projet : S.I.A. (Système d’Intrusion avec Alarme)
-Type : IoT
-Langages : C
+Type : IoT  
+Langage : C
 
 # Description du projet  
 Projet que j'ai réalisé après fini le module d'IoT lors de ma deuxième année d'études à YNOV Campus Nantes. L'IoT m'ayant beaucoup je me suis acheté un kit pour débutant contenant divers composants (dont une carte Arduino). 
